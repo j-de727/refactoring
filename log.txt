@@ -1,10 +1,10 @@
-39fcbd4 (HEAD -> main) Task 2.1 steps 2
+aeedf32 (HEAD -> main, origin/main, origin/HEAD) Task 2.2
+5c77d62 Task 2.1 steps 5-7
+39fcbd4 Task 2.1 steps 2
 81e18b1 Task 2.1 steps 1-4
-48b5770 (origin/main, origin/HEAD) Task 1.2 - Update log
+48b5770 Task 1.2 - Update log
 36de927 Task 1.1 - Resolve existing CheckStyle issues
 2b4f164 fixed tests for the not-for-credit tasks; parameter ordering and ensuring consistent line endings.
 ff5004e adding shortcut keys for Inline Variable (Re: Piazza question)
 b545fe2 clarifying extracted method names in README.md
 a0124c9 fixing starter file
-c8d9d38 adding starter files
-cbe4517 first commit
