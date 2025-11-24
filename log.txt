@@ -1,4 +1,6 @@
-aeedf32 (HEAD -> main, origin/main, origin/HEAD) Task 2.2
+8fa6175 (HEAD -> main, origin/main, origin/HEAD) Task 2.3 add final 2 lines of log
+515bb10 Task 2.3
+aeedf32 Task 2.2
 5c77d62 Task 2.1 steps 5-7
 39fcbd4 Task 2.1 steps 2
 81e18b1 Task 2.1 steps 1-4
@@ -10,3 +12,4 @@ b545fe2 clarifying extracted method names in README.md
 a0124c9 fixing starter file
 c8d9d38 adding starter files
 cbe4517 first commit
+(END)
